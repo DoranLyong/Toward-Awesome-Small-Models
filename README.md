@@ -1,1 +1,1 @@
-# Toward Awesome Small Models from Foundation Models
+# Toward Awesome Small and Efficient Models
